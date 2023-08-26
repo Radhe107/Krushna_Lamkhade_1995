@@ -8,7 +8,8 @@ public class MainCon {
 	
 	@RequestMapping("/")
 	public String home() {
-		System.out.println("this is home page");
+		System.out.println("going fatward with Ashok it");
+
 		return "home";
 	}
 
